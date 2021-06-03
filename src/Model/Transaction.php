@@ -159,6 +159,6 @@ class Transaction
         }
 
         return $this;
-
     }
+    
 }
